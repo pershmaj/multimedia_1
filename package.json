@@ -1,0 +1,24 @@
+{
+  "name": "lab1_1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "express": "^4.16.4",
+    "fs": "^0.0.1-security",
+    "i": "^0.3.6",
+    "images": "^3.0.2",
+    "jpeg-js": "^0.3.4",
+    "lsb": "^0.1.0",
+    "lsbtools": "^0.0.1",
+    "pngjs": "^3.3.3",
+    "sharp": "^0.21.3",
+    "zlib": "^1.0.5"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
